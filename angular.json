@@ -33,7 +33,7 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": ["ng build --base-href ./ "]
           },
           "configurations": {
             "production": {
